@@ -1,7 +1,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1>Hi 👋, I'm Pranav</h1>
-<p>A passionate full stack developer from India</p>
+<p>Hey there! I'm Pranav Hathwar, a passionate Full Stack Web Developer with a knack for building functional and scalable applications using the MERN stack. I love experimenting with Generative AI and always stay curious about emerging technologies.
+I’m all about solving problems, collaborating on exciting projects, and making things better—whether it’s a piece of software or a restaurant menu.
+
+Let’s connect and build something awesome! 🚀</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
