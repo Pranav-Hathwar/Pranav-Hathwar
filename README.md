@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!<h1>Hi 👋, I'm Pranav</h1>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1>Hi 👋, I'm Pranav</h1>
 <p>A passionate full stack developer from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -21,5 +21,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Hathwar&" alt="Pranav-Hathwar" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav-Hathwar&show_icons=true&locale=en&layout=compact" alt="Pranav-Hathwar" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranav-Hathwar" alt="Pranav-Hathwar" /></a></p>
---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Pranav-hathwar&icon=0&color=0)](https://visitcount.itsvg.in)
