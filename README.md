@@ -155,7 +155,6 @@ Offline-first Android app for rural Indian farmers to detect crop diseases.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-hathwar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-Hathwar)
 [![Email](https://img.shields.io/badge/Email-1A3A5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranav4hathwar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-378ADD?style=for-the-badge&logo=vercel&logoColor=white)](https://swaathi-portfolio-six.vercel.app/)
 
 </div>
 
