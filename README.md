@@ -123,8 +123,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranav-Hathwar&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=D6FF3F&text_color=ECE8E0&icon_color=D6FF3F&ring_color=D6FF3F" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Hathwar&layout=compact&hide_border=true&langs_count=8&bg_color=0A0A0B&title_color=D6FF3F&text_color=ECE8E0&exclude_repo=netflix_clone,paytm_static_clone,Google_clone,playarena,test_website,calculator,Getskilled" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=Pranav-Hathwar&hide_border=true&background=0A0A0B&ring=D6FF3F&fire=D6FF3F&currStreakLabel=D6FF3F&sideLabels=ECE8E0&currStreakNum=ECE8E0&sideNums=ECE8E0&dates=9A978F&stroke=2A2A2A" alt="Contribution streak" />
+
+<br><br>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav-Hathwar&theme=github_dark" alt="Most used languages by commit" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav-Hathwar&theme=github_dark" alt="GitHub stats" />
 
 </div>
 
